@@ -1,0 +1,2 @@
+# IntelectorYomoyo
+Intellector for mobile
