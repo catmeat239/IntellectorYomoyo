@@ -1,4 +1,6 @@
 class Game {
-    private var cells: Int = 0;
+    private var cells: List <Int> = listOf();
+    private var field;
+    private var figures
     // антон грек попуск
 }
